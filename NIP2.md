@@ -96,7 +96,7 @@ The aforementioned downsides encourage looking for other alternatives. Defining 
 
 ### Integration sequence diagram
 
-<img src=./nip-0002/process.png>
+<img src=process.png>
 
 
 ## Design Decisions
